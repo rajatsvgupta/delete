@@ -5,5 +5,5 @@ def sub (a,b):
 def mul (a,b):
     pass
 def div (a,b):
-    pass
+    return a/b
 
